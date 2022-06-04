@@ -1,5 +1,3 @@
-//Nathan Koplitz
-//HW3
 #include "maze.h"
 
 Maze::Maze(string fileName)

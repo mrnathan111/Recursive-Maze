@@ -1,5 +1,3 @@
-//Nathan Koplitz
-//HW3
 #pragma once
 #include <iostream>
 #include <string>

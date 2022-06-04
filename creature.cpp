@@ -1,5 +1,3 @@
-//Nathan Koplitz
-//HW3
 #include "creature.h"
 
 Creature::Creature(int row, int col)

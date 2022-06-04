@@ -1,5 +1,3 @@
-//Nathan Koplitz
-//HW3
 #pragma once
 #include "maze.h"
 

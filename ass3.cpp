@@ -1,5 +1,3 @@
-//Nathan Koplitz
-//HW 3
 #include <cassert>
 #include "maze.h"
 #include "creature.h"
